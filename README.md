@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning the OCR in the Cognitive Services
 - 💞️ I’m looking to collaborate on building a system component that "sees" SKUs in a warehouse and delivers them to an Android app and ultimately stores the SKUs and location in a database.
-- 📫 How to reach me jjjohn@startersbook.com
+- 📫 How to reach me jjjohn@aug10.com
 
 <!---
 jjjohn538/jjjohn538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
